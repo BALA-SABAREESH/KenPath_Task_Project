@@ -1,4 +1,4 @@
-# Sweety – Blood Glucose Tracker
+ Blood Glucose Tracker
 > *"Your daily glucose companion."*
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7+-blue.svg)](https://www.typescriptlang.org/)
